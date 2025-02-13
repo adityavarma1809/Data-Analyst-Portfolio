@@ -70,8 +70,8 @@ This is a repository to showcase Expereince, skills, share projects and track my
 
 
 - [Education](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Certificates](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
