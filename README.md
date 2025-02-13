@@ -48,7 +48,7 @@ Programming & Analytics: Python, R, SQL, PL/SQL, Alteryx
 Cloud & Big Data: AWS, Azure, Google BigQuery
 CRM & Reporting: Salesforce, Einstein Analytics, Business Objects
 
-My CV in [pdf](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/Aditya%20varma%20Yarra-%20Data%20Analyst.pdf).
+My RESUME in [pdf](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/Aditya%20varma%20Yarra-%20Data%20Analyst.pdf).
 
 This is a repository to showcase Expereince, skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -140,8 +140,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-
-
 ## Education
 SouthEast Missouri State University, USA: 
 Master of Science - MS, Data Science,
@@ -149,10 +147,8 @@ Master of Science - MS, Data Science,
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Microsoft certified PowerBI Data Analyst Associate - PL-300](https://learn.microsoft.com/en-us/users/adityavarmayarra-6358/credentials/9334bd924655e18d) 
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/adityavarma1809/)
-- Email: adityavarma1809.com
+- LinkedIn: [AdityaVarma Yarra](https://www.linkedin.com/in/adityavarma1809/)
+- Email: adityavarma1809@gmail.com
