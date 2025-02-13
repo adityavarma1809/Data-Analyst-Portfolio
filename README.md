@@ -54,7 +54,7 @@ This is a repository to showcase Expereince, skills, share projects and track my
 
 ## Table of Contents
 - [About](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#about)
-- [work experience](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#work-experience)
+- [work experience](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#Work-experience)
 - [Portfolio Projects](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/adityavarma1809/Projects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
