@@ -9,9 +9,48 @@ I specialize in:
 ✔ CRM & Business Process Optimization (Salesforce, Einstein Analytics)
 ✔ Big Data & Cloud Computing (AWS, Azure, Google BigQuery)
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+💼 Work Experience
+Sr. Data Analyst | DEUTZ, Earth City, MO | Apr 2024 - Present
+Developed Data Warehouse integrating Salesforce & SAP for unified data access.
+Built Power BI dashboards with interactive storytelling using bookmarks & drill-through filters.
+Utilized Machine Learning (Python) for multilingual data analysis.
+Conducted COPQ & DPPM analysis for cost & quality optimization.
+Managed Salesforce Apps & CRM processes for customer issue resolution.
+Performed ETL processes with SAP HANA & Teradata.
+Technologies: Power BI, SAP HANA, Salesforce, SQL, Python, Teradata, Business Objects
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+Sr. Data Analyst | Lockton, Inc., Kansas City, MO | Apr 2023 - Mar 2024
+Led ETL data transformation using Informatica 9.6 and AWS Cloud.
+Developed SQL-based Data Vending Hub (DVH) queries for data extraction.
+Built Tableau dashboards integrating multiple data sources.
+Automated data validation using Alteryx workflows in AWS Cloud.
+Created REST APIs to enable data consumption for reports.
+Technologies: AWS, Tableau, SQL, Informatica, Alteryx, PL/SQL
+
+Data Analyst | Novartis India, Hyderabad | Dec 2020 - Nov 2022
+Developed Tableau dashboards for strategic planning & supply chain optimization.
+Implemented LOD & WINDOW functions for advanced analytics.
+Automated Tableau Server data refresh cycles for real-time analytics.
+Built data pipelines in AWS Redshift for reporting.
+Technologies: Tableau, AWS Redshift, Alteryx, SQL, Oracle
+
+Programmer Analyst | State Street Corporation, Hyderabad | Jun 2019 - Nov 2020
+Designed data warehouses & marts for structured reporting.
+Built Power BI dashboards and complex DAX queries.
+Developed ETL pipelines using SSIS, NiFi & Python.
+Managed Azure-based web applications & API integrations.
+Technologies: Power BI, SQL Server, Azure, Google BigQuery, SSIS, Tableau
+
+📈 Skills & Technologies
+BI & Data Visualization: Power BI, Tableau, QlikView
+ETL & Data Warehousing: SAP HANA, Informatica, Teradata, SSIS
+Programming & Analytics: Python, R, SQL, PL/SQL, Alteryx
+Cloud & Big Data: AWS, Azure, Google BigQuery
+CRM & Reporting: Salesforce, Einstein Analytics, Business Objects
+
+My CV in [pdf](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/Aditya%20varma%20Yarra-%20Data%20Analyst.pdf).
+
+This is a repository to showcase Expereince, skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
@@ -30,7 +69,7 @@ This is a repository to showcase skills, share projects and track my progress in
   
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Education](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
