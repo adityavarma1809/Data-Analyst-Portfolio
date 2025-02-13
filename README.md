@@ -1,5 +1,5 @@
 # Aditya Varma Yarra - Data Analyst Portfolio
-## About
+## About 
 I am a Senior Data Analyst with extensive experience in Business Intelligence (BI), Data Analytics, ETL, and Data Visualization. With a strong background in Power BI, Tableau, SQL, Python, AWS, and Salesforce, I have worked with global organizations across various industries, optimizing operations and driving strategic business decisions through data-driven insights.
 
 I specialize in:
@@ -9,7 +9,7 @@ I specialize in:
 ✔ CRM & Business Process Optimization (Salesforce, Einstein Analytics)
 ✔ Big Data & Cloud Computing (AWS, Azure, Google BigQuery)
 
-💼 Work Experience
+💼 **## Work Experience**
 Sr. Data Analyst | DEUTZ, Earth City, MO | Apr 2024 - Present
 Developed Data Warehouse integrating Salesforce & SAP for unified data access.
 Built Power BI dashboards with interactive storytelling using bookmarks & drill-through filters.
@@ -53,8 +53,9 @@ My RESUME in [pdf](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blo
 This is a repository to showcase Expereince, skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#about)
+- [work experience](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#work-experience)
+- [Portfolio Projects](https://github.com/adityavarma1809/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/adityavarma1809/Projects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
     - [Tech Store Sales Analysis](https://github.com/adityavarma1809/Projects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)  
